@@ -2,6 +2,10 @@ hello git::::|||
 
 change1
 change2 
+<<<<<<< HEAD
 change3
 change4
 change5
+=======
+change3
+>>>>>>> parent of 8db5bc5... change4 in file1
