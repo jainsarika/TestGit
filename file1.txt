@@ -1,15 +1,8 @@
 hello git::::|||
 
-change1
-change2 
-<<<<<<< HEAD
-<<<<<<< HEAD
-change3
-change4
-change5
-=======
-change3
->>>>>>> parent of 8db5bc5... change4 in file1
-=======
-change3
->>>>>>> parent of 8db5bc5... change4 in file1
+Change1-1
+Change2 -2
+Change3-3
+Change4-4
+Change5-5
+
